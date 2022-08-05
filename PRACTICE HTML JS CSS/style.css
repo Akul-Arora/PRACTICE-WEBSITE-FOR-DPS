@@ -1,0 +1,49 @@
+h3 {
+    flex:display;
+    justify-content: center;
+    align-items: center;
+    background-color: aqua;
+    border: 2cm;
+    border-radius: 10cm;
+    color: green;
+    font-size: 35px;
+    padding-left: 50%;
+}
+h4 {
+    flex:display;
+    justify-content: center;
+    align-items: center;
+    border-radius: 10cm;
+    color: red;
+    font-size: 25px;
+    padding-left: 50%;
+}
+body{
+    border: 0cm;
+    background-color: white;
+}
+li{
+    font-size: 25px;
+}
+h5{
+    font-size: 35px;
+    padding-left: 70%;
+}
+p{
+    font-size: 30px;
+    justify-content: space-between;
+    top: 40%;
+}
+.LOGOS{
+    padding-left: 30%;
+    flex-direction: column;
+}
+.LOGOLINK{
+    font-size: 45px;
+    justify-content: space-between;
+    padding-left: 30%;
+    flex-direction: column;
+}
+.form{
+    font-size:20px ;
+}
